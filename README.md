@@ -1,50 +1,15 @@
-# Alfaconcursos
+# Alfacon
 Documentar o processo de acionamento para a equipe Alfacon, por seus canais de comunicação respectivos, conforme a criticidade e grupos de incidentes.
 
 
-Alfacon
+# Instruções
+Para os alerta gerados na ferramenta Uptime Robot e CloudWatch o via Telefone conforme o Escalation documentado, ao qual foi repassado pelo time Alfacon.
+Todos os alerta serão encaminhados de forma automática para o portal de chamados Movidesk, porém em paralelo todos os acesso às ferramentas de monitoração já estão sendo providenciado
+
+
+# Alfacon
 Durante o período da madrugada,  deve-se sempre avaliar se tratar-se de um alerta Crítico ou não, caso tratar-se de um problema histórico, para não acordar o pessoal sem necessidade.
 
-Horario
+![image](https://user-images.githubusercontent.com/120046026/206255203-f5b0177d-c6af-476a-aa9b-cb6c979ec230.png)
 
-Nome
 
-E-mail
-
-Telefone
-
-Tempo
-
-1
-
-Emerson
-
-(45) 99101-9747
-
- 
-
- 
-
-2
-
-Carlos Eduardo (kadu)
-
-(45) 99984-2191
-
-kadu@alfaconcursos.com.br
-
-Supervisor de Desenvolvimento
-
-3
-
-Yuri Ferreira Da Silva
-
-(11) 95917-5999
-
-yuri.silva@alfaconcursos.com.br
-
- 
-
-E-mail para notificação de Alerta
-
-cloud.alerts@alfaconcursos.com.br
